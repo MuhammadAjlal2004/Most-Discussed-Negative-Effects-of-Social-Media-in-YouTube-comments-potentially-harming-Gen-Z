@@ -22,4 +22,4 @@ Following the data cleaning process, the dataset was refined to 1,621 highly neg
 *   **Category Nuances:** When filtering by the "Research" video type, "destroying" and "stupid" emerged as highly common negative keywords.
 
 ---
-*For the complete methodology, histograms, and sentiment distribution plots, please view the [Full Project Report](Computational Social Science - Final Project Report  Muhammad Ajlal.pdf).*
+*For the complete methodology, histograms, and sentiment distribution plots, please view the [Full Project Report](Computational%20Social%20Science%20-%20Final%20Project%20Report%20%20Muhammad%20Ajlal.pdf).*
